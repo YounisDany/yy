@@ -230,7 +230,7 @@ section {
 }
 
 .food-item {
-    width: flex;
+    width: 25%;
 
     padding: 1rem;
 }
