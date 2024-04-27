@@ -545,7 +545,7 @@ section {
     }
 
     span {
-        font-size: inherit;
+        font-size: 1rem;
     }
 
     .cart-btn i {
