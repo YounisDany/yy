@@ -226,7 +226,7 @@ section {
     display: flex;
     flex-wrap: wrap;
     justify-content: flex-start;
-    margin-top: 3rem;
+    margin-top: 7rem;
 }
 
 .food-item {
